@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 320px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.site-box {
+  background: #f4f4f4;
+  padding: 8px;
+  margin-bottom: 6px;
+  border-radius: 5px;
+  font-size: 13px;
+}
+
+#summary {
+  font-size: 14px;
+}
