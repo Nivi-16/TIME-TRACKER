@@ -38,3 +38,5 @@ This tool helps users:
    <img width="460" height="601" alt="Image" src="https://github.com/user-attachments/assets/dc73f15a-7016-4d56-9c17-9d0d12cf8f82" />
 
    <img width="464" height="375" alt="Image" src="https://github.com/user-attachments/assets/4dc547ad-237f-4d5a-b885-39775a5d72d8" />
+
+   <img width="1919" height="876" alt="Image" src="https://github.com/user-attachments/assets/8bf250e2-eda4-4010-846a-bdad8df7e7da" />
